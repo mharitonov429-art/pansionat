@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "type": "Reference",
+  "name": "Справочник по выбору пансионата для пожилых",
+  "url": "https://пансионат-центр.рф/",
+  "description": "Независимый российский справочник для родственников пожилых людей: как выбрать пансионат, что проверить в договоре, признаки ненадлежащего ухода, локальные гайды, статьи по деменции и реабилитации",
+  "language": "ru",
+  "author": {
+    "type": "Person",
+    "name": "Харитонов Матвей Васильевич"
+  },
+  "publisher": {
+    "type": "Person",
+    "name": "Харитонов Матвей Васильевич"
+  },
+  "isIndependent": true,
+  "monetization": "none",
+  "disclaimer": "Материалы не заменяют консультацию врача, юриста или специалиста органа социальной защиты. Цены ориентировочны и могут меняться.",
+  "lastUpdated": "2026-10-25",
+  "totalPages": 17,
+  "categories": [
+    {
+      "id": "main-guides",
+      "title": "Основные руководства",
+      "description": "Полные гайды для выбора пансионата",
+      "articles": [
+        {
+          "slug": "kak-vybrat-pansionat",
+          "title": "Как выбрать пансионат для пожилых",
+          "url": "https://пансионат-центр.рф/kak-vybrat-pansionat/",
+          "type": "guide",
+          "keywords": ["выбор пансионата", "чек-лист", "персонал", "безопасность"]
+        },
+        {
+          "slug": "dogovor-s-pansionatom",
+          "title": "Договор с пансионатом",
+          "url": "https://пансионат-центр.рф/dogovor-s-pansionatom/",
+          "type": "legal-guide",
+          "keywords": ["договор", "документы", "условия", "юридическая защита"]
+        },
+        {
+          "slug": "trevozhnye-priznaki",
+          "title": "Тревожные признаки пансионата",
+          "url": "https://пансионат-центр.рф/trevozhnye-priznaki/",
+          "type": "safety-guide",
+          "keywords": ["красные флаги", "опасности", "мошенничество", "отказ"]
+        },
+        {
+          "slug": "uhod-pri-demencii",
+          "title": "Уход за человеком с деменцией",
+          "url": "https://пансионат-центр.рф/uhod-pri-demencii/",
+          "type": "medical-guide",
+          "keywords": ["деменция", "Альцгеймер", "специализированный уход", "семья"]
+        },
+        {
+          "slug": "stoimost-pansionata",
+          "title": "Из чего складывается стоимость пансионата",
+          "url": "https://пансионат-центр.рф/stoimost-pansionata/",
+          "type": "financial-guide",
+          "keywords": ["цена", "доплаты", "расходы", "государственная помощь"]
+        },
+        {
+          "slug": "voprosy-i-otvety",
+          "title": "Вопросы и ответы о пансионатах",
+          "url": "https://пансионат-центр.рф/voprosy-i-otvety/",
+          "type": "faq",
+          "keywords": ["часто спрашиваемое", "FAQ", "быстрые ответы"]
+        }
+      ]
+    },
+    {
+      "id": "care-types",
+      "title": "Выбор по типам ухода",
+      "description": "Статьи для специализированных видов ухода",
+      "articles": [
+        {
+          "slug": "pansionat-dlya-lezhachih-bolnyh",
+          "title": "Пансионат для лежачих больных",
+          "url": "https://пансионат-центр.рф/pansionat-dlya-lezhachih-bolnyh/",
+          "type": "specialized",
+          "keywords": ["лежачий", "пролежни", "интенсивный уход", "медсестра"]
+        },
+        {
+          "slug": "pansionat-pri-alcgeymere-i-demencii",
+          "title": "Пансионат при Альцгеймере и деменции",
+          "url": "https://пансионат-центр.рф/pansionat-pri-alcgeymere-i-demencii/",
+          "type": "specialized",
+          "keywords": ["Альцгеймер", "деменция", "специализированный", "безопасность территории"]
+        },
+        {
+          "slug": "reabilitacija-posle-insulta",
+          "title": "Реабилитация после инсульта",
+          "url": "https://пансионат-центр.рф/reabilitacija-posle-insulta/",
+          "type": "specialized",
+          "keywords": ["инсульт", "реабилитация", "восстановление", "упражнения"]
+        }
+      ]
+    },
+    {
+      "id": "regional",
+      "title": "Выбор по регионам",
+      "description": "Локальные гайды для Уральского региона и Поволжья",
+      "regions": [
+        {
+          "name": "Челябинск",
+          "slug": "pansionat-dlya-pozhilyh-v-chelyabinske",
+          "url": "https://пансионат-центр.рф/pansionat-dlya-pozhilyh-v-chelyabinske/",
+          "keywords": ["Челябинск", "пансионат", "организация", "стоимость"]
+        },
+        {
+          "name": "Башкирия",
+          "slug": "pansionat-dlya-pozhilyh-v-bashkirii",
+          "url": "https://пансионат-центр.рф/pansionat-dlya-pozhilyh-v-bashkirii/",
+          "keywords": ["Башкирия", "Месягутово", "государственная поддержка"]
+        },
+        {
+          "name": "Екатеринбург",
+          "slug": "pansionat-dlya-pozhilyh-v-ekaterinburge",
+          "url": "https://пансионат-центр.рф/pansionat-dlya-pozhilyh-v-ekaterinburge/",
+          "keywords": ["Екатеринбург", "рынок", "районы", "цены"]
+        }
+      ]
+    },
+    {
+      "id": "comparison",
+      "title": "Сравнение и выбор",
+      "articles": [
+        {
+          "slug": "pansionat-vs-dom-prestarelyh",
+          "title": "Пансионат vs дом престарелых",
+          "url": "https://пансионат-центр.рф/pansionat-vs-dom-prestarelyh/",
+          "type": "comparison",
+          "keywords": ["пансионат", "дом-интернат", "государственный", "частный"]
+        }
+      ]
+    }
+  ],
+  "availableTools": [
+    {
+      "name": "search_articles",
+      "description": "Поиск статей по ключевым словам, категории, типу ухода или региону"
+    },
+    {
+      "name": "get_article_content",
+      "description": "Получить полный текст статьи по URL или slug"
+    },
+    {
+      "name": "get_contact_info",
+      "description": "Получить контактную информацию сайта (email, форма обратной связи)"
+    }
+  ],
+  "sitemapUrl": "https://пансионат-центр.рф/sitemap.xml",
+  "contactEmail": "zames.78@mail.ru",
+  "privacyPolicyUrl": "https://пансионат-центр.рф/politika/",
+  "aboutPageUrl": "https://пансионат-центр.рф/o-sayte/",
+  "targetAudience": "Родственники пожилых людей, люди в поиске ухода, социальные работники, медицинские специалисты",
+  "updateFrequency": "weekly",
+  "contentTrust": "independent-research",
+  "medicalDisclaimer": true,
+  "legalDisclaimer": true
+}
